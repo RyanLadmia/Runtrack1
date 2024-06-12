@@ -1,0 +1,41 @@
+body{
+    background-image: url(asl.webp);
+    background-size: 100%;
+}
+
+.nuage1{
+    background-color: navy;
+    border-radius: 30%;
+    border-style: groove;
+    border-color: black;
+    padding: 1vw;
+    width: 8vw;
+    position: relative;
+    top: 1vw;
+    left: 12vw;
+}
+.nuage2{
+    background-color: red;
+    border-radius: 30%;
+    border-style: groove;
+    border-color: black;
+    padding: 1vw;
+    width: 8vw;
+    position: relative;
+    top: -12vw;
+    left: 39vw;
+}
+.nuage3{
+    background-color: yellow;
+    border-radius: 30%;
+    border-style: groove;
+    border-color: black;
+    padding: 1vw;
+    width: 8vw;
+    position: relative;
+    top: -25vw;
+    left: 78vw;
+}
+p{
+    text-align: center;
+}

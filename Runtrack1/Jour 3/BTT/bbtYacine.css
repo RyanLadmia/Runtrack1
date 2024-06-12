@@ -1,0 +1,38 @@
+body{
+    background-image: url(cr7.jpg);
+    background-size: 100%;
+}
+
+.case1{
+    background-color: orange;
+    color: white;
+    width: fit-content;
+    padding: 1vw;
+}
+
+.case2{
+    background-color: orange;
+    color: white;
+    width: fit-content;
+    padding: 1vw;
+    position: relative;
+    left: 80vw;
+    bottom: 15.5vw;
+}
+
+.bouton{
+    text-decoration: none;
+    color: black;
+    background-color: yellow;
+    padding: 5px;;
+    font-size: 3vw;
+    position: relative;
+    top: 7vw;
+}
+.bouton:hover{
+    background-color: orangered;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

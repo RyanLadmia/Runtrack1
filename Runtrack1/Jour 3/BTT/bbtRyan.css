@@ -1,0 +1,29 @@
+body{
+    background-image: url(gokutrains.gif);
+    background-size: 100%;
+    
+}
+
+.case{
+    background-color: blue;
+    color: white;
+    border: solid navy;
+    width: fit-content;
+    padding: 1vw;
+    position: relative;
+    top: 26vw;
+    left: 55vw;
+}
+
+.bouton{
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    padding: 5px;;
+    font-size: 3vw;
+    position: relative;
+    top: 17vw;
+}
+.bouton:hover{
+    background-color: navy;
+}

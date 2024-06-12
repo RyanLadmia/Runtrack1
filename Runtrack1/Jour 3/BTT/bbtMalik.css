@@ -1,0 +1,38 @@
+body{
+    background-image: url(vs.webp);
+    background-size: 100%;
+}
+
+.case1{
+    background-color: red;
+    color: white;
+    width: fit-content;
+    padding: 1vw;
+}
+
+.case2{
+    background-color: red;
+    color: white;
+    width: fit-content;
+    padding: 1vw;
+    position: relative;
+    top: 10vw;
+    left:80vw;
+}
+
+.bouton{
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    padding: 5px;;
+    font-size: 3vw;
+    position: relative;
+    top: 7vw;
+}
+.bouton:hover{
+    background-color: orangered;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

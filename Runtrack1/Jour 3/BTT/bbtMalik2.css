@@ -1,0 +1,39 @@
+body{
+    background-image: url(sabo.webp);
+    background-size: 100%;
+}
+
+.case1{
+    background-color: yellow;
+    color: black;
+    width: fit-content;
+    padding: 1vw;
+}
+
+.case2{
+    background-color:yellow;
+    color: black;
+    width: fit-content;
+    padding: 1vw;
+    position: relative;
+    top: 10vw;
+    left:8vw;
+}
+
+.bouton{
+    text-decoration: none;
+    color: black;
+    background-color: yellow;
+    padding: 5px;;
+    font-size: 3vw;
+    position: relative;
+    top: 7vw;
+    left: 80vw;
+}
+.bouton:hover{
+    background-color: red;
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

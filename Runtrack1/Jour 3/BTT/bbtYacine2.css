@@ -1,0 +1,41 @@
+body{
+    background-image: url(ace.jpg);
+    background-size: 100%;
+}
+
+.case1{
+    background-color: purple;
+    color: white;
+    width: fit-content;
+    padding: 1vw;
+    position: relative;
+    top: 5vw;
+    left: 80vw;
+}
+
+.case2{
+    background-color: purple;
+    color: white;
+    width: fit-content;
+    padding: 1vw;
+    position: relative;
+    left: 80vw;
+    bottom: -5vw;
+}
+
+.bouton{
+    text-decoration: none;
+    color: white;
+    background-color: purple;
+    padding: 5px;;
+    font-size: 3vw;
+    position: relative;
+    top: 7vw;
+}
+.bouton:hover{
+    background-color: red;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}

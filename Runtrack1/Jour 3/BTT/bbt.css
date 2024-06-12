@@ -1,0 +1,43 @@
+body{
+    background-image:url(OgAdmirals.jpg);
+    background-size: 100%;
+}
+
+.nuage1{
+    background-color: white;
+    border-radius: 60%;
+    border-style: groove;
+    border-color: black;
+    padding: 1vw;
+    width: 8vw;
+    position: relative;
+    top: 29vw;
+    left: 8vw;
+}
+.nuage2{
+    background-color: white;
+    border-radius: 60%;
+    border-style: groove;
+    border-color: black;
+    padding: 1vw;
+    width: 8vw;
+    position: relative;
+    top: 15vw;
+    left: 43vw;
+}
+.nuage3{
+    background-color: white;
+    border-radius: 60%;
+    border-style: groove;
+    border-color: black;
+    padding: 1vw;
+    width: 8vw;
+    position: relative;
+    top: 2vw;
+    left: 78vw;
+}
+p{
+    text-align: center;
+
+}
+
